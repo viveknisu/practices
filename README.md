@@ -1,0 +1,2 @@
+# practices
+Basic projects practices
